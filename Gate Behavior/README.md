@@ -1,6 +1,6 @@
 # CST337-Computer-Architecture
 C Program that simulated Logic Gate behavior. 
-IE: 
+
 <h2> AND Gate</h2>
 
 <table>
